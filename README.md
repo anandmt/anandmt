@@ -98,12 +98,29 @@ A trailing stop advisor that dynamically adjusts stop-loss levels using volatili
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anandmt&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandmt&theme=github-dark-blue&hide_border=true" height="170" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=anandmt&theme=github-dark-blue&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=anandmt&theme=default&hide_border=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=anandmt&theme=github-dark-blue&hide_border=true" height="170" />
+</picture>
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandmt&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css" height="170" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=anandmt&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=anandmt&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anandmt&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anandmt&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anandmt&layout=compact&theme=default&hide_border=true&langs_count=8&hide=html,css" />
+  <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anandmt&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css" height="170" />
+</picture>
+
 </div>
 
 ---
