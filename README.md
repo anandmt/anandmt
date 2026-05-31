@@ -9,7 +9,7 @@ I build **production AI systems** that companies actually depend on — from ent
 [![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandmt)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/anandmt)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anandtiwari@live.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://anandmt.github.io)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://at.aiupto.com)
 
 </div>
 
